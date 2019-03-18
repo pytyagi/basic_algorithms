@@ -131,8 +131,8 @@ int main()
     cout<<"Enter the edge(u-v) and it's weight\n";
     for(int i=1;i<=E;i++)
     {
-        cin>>u>>v;
-        add_edge(G,u,v,1);
+        cin>>u>>v>>w;
+        add_edge(G,u,v,w);
     }
     //print(G,V);
    // bfs(G,V);
