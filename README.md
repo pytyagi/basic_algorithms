@@ -7,3 +7,5 @@ Fundamentals For Beginner
 
 3). Binary Heaps (Max and Min Heaps)
 
+4). HeapSort
+
