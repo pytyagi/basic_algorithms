@@ -5,27 +5,6 @@
 using namespace std;
 typedef long long int lln;
 
-const lln M=1e9+7;
-
-lln power(lln a,lln b)
-{
-    lln ans=1;
-    while(b)
-    {
-        if(b&1)
-        {
-            ans=ans*a;
-            b--;
-        }
-        else
-        {
-            a=a*a;
-            b/=2;
-        }
-    }
-    return ans;
-}
-
 void max_heapify(int *a,int i,int heap_size)
 {
     int l,r,largest;
@@ -93,7 +72,7 @@ int main()
 
     return 0;
 }
-/*
+/* Test Case
 Input
 8 // Array Size
 
