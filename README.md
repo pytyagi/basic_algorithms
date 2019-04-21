@@ -9,3 +9,5 @@ Fundamentals For Beginner
 
 4). HeapSort
 
+5). Dijkstra's Algorithm
+
