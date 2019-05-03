@@ -3,11 +3,13 @@ Fundamentals For Beginner
 
 1). Generating all Subsets(Brute Force)
 
-2). Breadth First(BFS) and Depth First(DFS) Traversal for graph
+2). Breadth First(BFS) and Depth First(DFS) Traversal for Graph.
 
-3). Binary Heaps (Max and Min Heaps)
+3). Binary Heaps (Max and Min Heaps).
 
-4). HeapSort
+4). HeapSort.
 
-5). Dijkstra's Algorithm
+5). Dijkstra's Algorithm.
+
+6). Finding all pairs in an Array with Given Sum.
 
