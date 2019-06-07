@@ -13,3 +13,4 @@ Fundamentals For Beginner
 
 6). Finding all pairs in an Array with Given Sum.
 
+7). Staircase Search in Sorted Matrix. 
