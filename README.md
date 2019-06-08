@@ -14,3 +14,5 @@ Fundamentals For Beginner
 6). Finding all pairs in an Array with Given Sum.
 
 7). Staircase Search in Sorted Matrix. 
+
+8). Matrix rotation in cloclwise direction by 90 degrees.
