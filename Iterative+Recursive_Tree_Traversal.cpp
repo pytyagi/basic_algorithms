@@ -1,3 +1,4 @@
+/* All Traversal have O(N) Time complexity  */
 #include<bits/stdc++.h>
 using namespace std;
 
