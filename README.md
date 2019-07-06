@@ -18,3 +18,5 @@ Fundamentals For Beginner
 8). Matrix rotation in cloclwise direction by 90 degrees.
 
 9). Iterative + Recursive Tree Traversal.
+
+10).Tries Data Structure.
