@@ -19,6 +19,8 @@ Fundamentals For Beginner
 
 9). Iterative + Recursive Tree Traversal.
 
-10).Tries Data Structure.
+10). Tries Data Structure.
 
-11).Cycle Detection in Undirected Graph using BFS.
+11). Cycle Detection in Undirected Graph using BFS.
+
+12). Bubble Sort.
