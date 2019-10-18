@@ -27,4 +27,4 @@ Fundamentals For Beginner
 
 13). Tower of Hanoi.
 
-14). Quicksort.
+14). Randomized Quicksort.
