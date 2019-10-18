@@ -24,3 +24,5 @@ Fundamentals For Beginner
 11). Cycle Detection in Undirected Graph using BFS.
 
 12). Bubble Sort.
+
+13). Tower of Hanoi.
