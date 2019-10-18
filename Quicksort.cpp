@@ -8,6 +8,17 @@ void print(int *a,int n)
         cout<<a[i]<<" ";
 }
 
+void shuffle(int *a,int n)
+{
+    for(int i=n-1;i>0;i--)
+    {
+        srand(time(NULL));
+        int random_index = rand()%(i+1);
+        swap(a[i],a[random_index]);
+    }
+
+}
+
 int partition_array(int *a,int s,int e)
 {
     int p = a[e];
@@ -44,7 +55,8 @@ int main()
     int a[n];
     for(int i=0;i<n;i++)
         cin>>a[i];
-
+    
+    shuffle(a,n);// To improve worst case of quicksort i.e sorted array
     cout<<"Before Sorting array is: ";
     print(a,n);
 
