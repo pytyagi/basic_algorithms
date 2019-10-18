@@ -26,3 +26,5 @@ Fundamentals For Beginner
 12). Bubble Sort.
 
 13). Tower of Hanoi.
+
+14). Quicksort.
